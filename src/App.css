@@ -2,16 +2,16 @@
   text-align: center;
 }
 
-.title {
-  font-family: 'Carter One';
-}
-.container {
-  margin-top: 50px;
-  text-align: center;
-}
 
 .image-grid {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
+}
+.checkboxHistory{
+  margin-right:10px;
+}
+.historyBox{
+  padding: 10px;
+  text-align: left;
 }
